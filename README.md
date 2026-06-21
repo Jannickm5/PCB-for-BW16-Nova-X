@@ -1,8 +1,18 @@
 # 🚀 PCB for Nova-X Deauther (BW16 Version)
 
+<div align="right" style="float: right; margin-left: 15px;">
+  <img src="<img width="659" height="887" alt="Screenshot 2026-06-21 214959" src="https://github.com/user-attachments/assets/0efdf325-c925-4fc3-a8c4-e89cb640a4fb" />
+" width="280" alt="PCB Top View">
+  <br>
+  <img src="<img width="589" height="868" alt="Screenshot 2026-06-21 215026" src="https://github.com/user-attachments/assets/254a0645-0379-4267-880d-a5c83028e346" />
+" width="280" alt="PCB Bottom View" style="margin-top: 10px;">
+</div>
+
 An open-source, custom PCB specifically designed to run the **Nova-X deauther firmware**. This board is tailored for the **BW16 (RTL8720DN)** module, bringing dual-band Wi-Fi network testing into a clean, dedicated hardware layout.
 
 This repository provides all the necessary Gerber files for free. Download them, order your boards, and build your own hardware!
+
+<br clear="right"/>
 
 ---
 
@@ -16,8 +26,6 @@ To fully assemble this board, you will need:
 * **1x** IPX Connector (for the board)
 * **1x** IPX to IPX Cable
 * **1x** Wi-Fi Antenna (Dual-Band recommended)
-<img width="589" height="868" alt="Screenshot 2026-06-21 215026" src="https://github.com/user-attachments/assets/d6793caf-0461-45db-8408-7b3de2afe264" />
-<img width="659" height="887" alt="Screenshot 2026-06-21 214959" src="https://github.com/user-attachments/assets/2c404136-886e-4863-9c8f-32ffe32593c8" />
 
 ---
 
