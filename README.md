@@ -16,6 +16,8 @@ To fully assemble this board, you will need:
 * **1x** IPX Connector (for the board)
 * **1x** IPX to IPX Cable
 * **1x** Wi-Fi Antenna (Dual-Band recommended)
+<img width="589" height="868" alt="Screenshot 2026-06-21 215026" src="https://github.com/user-attachments/assets/d6793caf-0461-45db-8408-7b3de2afe264" />
+<img width="659" height="887" alt="Screenshot 2026-06-21 214959" src="https://github.com/user-attachments/assets/2c404136-886e-4863-9c8f-32ffe32593c8" />
 
 ---
 
